@@ -12,9 +12,6 @@ Welcome to NetLogo Models's documentation!
     :maxdepth: 2
     :caption: Contents:
 
-    post
-
-
 
 Indices and tables
 ==================

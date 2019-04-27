@@ -52,7 +52,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'NetLogo Models'
-copyright = '2017, lofyer'
+copyright = '1990-2019, lofyer'
 author = 'lofyer'
 
 # The version info for the project you're documenting, acts as replacement for

@@ -10,6 +10,10 @@ Welcome to NetLogo Models's documentation!
 
 .. toctree::
     :maxdepth: 2
+
+    posts/ch01.rst
+    posts/ch02.rst
+
     :caption: Contents:
 
 
